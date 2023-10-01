@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Landing Page
 
  - Demo Project : [Demo](https://nuxt.com/docs/getting-started/introduction)
 
